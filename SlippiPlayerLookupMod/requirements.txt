@@ -1,0 +1,5 @@
+pandas==2.2.2
+py_slippi==1.6.2
+Requests==2.32.3
+watchdog==4.0.1
+tk
